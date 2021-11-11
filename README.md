@@ -7,3 +7,5 @@ Run the following command in a command-line:
 ```bash
 LoadSolutionForAnalysis.exe "{YOUR_PATH}.sln"
 ```
+
+For more information, There is an issue for this sample [here](https://github.com/dotnet/roslyn/issues/44586)
