@@ -8,4 +8,4 @@ Run the following command in a command-line:
 LoadSolutionForAnalysis.exe "{YOUR_PATH}.sln"
 ```
 
-For more information, There is an issue for this sample [here](https://github.com/dotnet/roslyn/issues/44586)
+For more information, There is an issue about this sample [here](https://github.com/dotnet/roslyn/issues/44586)
